@@ -34,4 +34,6 @@ Le projet suit plusieurs étapes clés typiques d’un flux de travail en machin
 
 **N.B**. : Ce dépôt a vocation à être enrichi. D'autres méthodes de classification supervisée (K-plus proches voisins, arbres de décision, SVM, etc.) seront ajoutées progressivement afin d’élargir l’étude comparative des performances.
 
-##
+
+
+#### 🧑‍💻 **Auteur** : *Eudes KODIA* 
